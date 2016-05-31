@@ -1,0 +1,4 @@
+2016-05-30 22:10:38 ===> W:\domains\mini-framework\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-05-30 22:11:08 ===> W:\domains\mini-framework\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-05-30 22:32:19 ===> W:\domains\mini-framework\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-05-30 22:32:48 ===> W:\domains\mini-framework\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
