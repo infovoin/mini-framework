@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: activ
- * Date: 15.02.2016
- * Time: 8:35
- */
+
 
 use App\Classes\Logs;
 use App\Classes\View;

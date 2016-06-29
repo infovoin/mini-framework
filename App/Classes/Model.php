@@ -83,7 +83,7 @@ class Model
         if (DB::exec($sql, $params)) {
 
             $this->data['id'] = DB::getInstanceDBH()->lastInsertId();
-            var_dump($this->data);
+            
         }
 
         DB::getInstanceDBH()->commit();

@@ -8,7 +8,6 @@ use App\Models\News as NewsModel;
 
 class News extends Controller
 {
-    public $var;
 
     public function actionAll()
     {

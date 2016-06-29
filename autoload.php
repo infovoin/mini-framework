@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: activ
- * Date: 15.02.2016
- * Time: 8:35
- * @param $nameClass
- */
 
 function my_autoload($className)
 {
@@ -13,3 +6,6 @@ function my_autoload($className)
 }
 
 spl_autoload_register('my_autoload');
+
+
+include __DIR__ . "/vendor/autoload.php";
